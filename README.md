@@ -10,7 +10,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 Currently in my 8th semester of BSCS, I am eager to delve deeper into the world of web development.
 - 💞️ Excited about collaboration, especially with MLSA events, where I can contribute my skills and learn from fellow enthusiasts.
-- 📫 Reach out to me on LinkedIn: [zain-ul-abideen3](https://www.linkedin.com/in/zumer-niaz/). Let's connect and explore the possibilities of data-driven innovation!
+- 📫 Reach out to me on LinkedIn: [Zumer Niaz](https://www.linkedin.com/in/zumer-niaz/). Let's connect and explore the possibilities of data-driven innovation!
 ---
 
 ## 🔭 Current Orbit
