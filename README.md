@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zumer-niaz/)
 [![GitHub Followers](https://img.shields.io/github/followers/zumer305?label=Follow%20%40zumer305&style=social)](https://github.com/zumer305)
+-------------------------
  **About Me:💫**
 I thrive on coding, problem-solving and React. I love diving into challenging projects that push my boundaries. With a background in computer science, I bring a unique perspective to my work, blending my interdisciplinary skills with my technical expertise to create powerful innovative solutions and user-friendly web applications👨‍💻.
 
