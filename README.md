@@ -3,7 +3,7 @@
 *Web Developer | Wordpress | C++*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zumer-niaz/)
-[![GitHub Followers](https://img.shields.io/github/followers/zain-ul-abideen-5036?label=Follow%20%40zain-ul-abideen-5036&style=social)](https://github.com/zain-ul-abideen-5036)
+[![GitHub Followers](https://img.shields.io/github/followers/zumer305?label=Follow%20%40zain-ul-abideen-5036&style=social)](https://github.com/zumer305)
 
 ![Abstract Technology Profile LinkedIn Banner](https://github.com/user-attachments/assets/3a83cfcb-d8d3-401c-8b68-35999382cf43)
 
