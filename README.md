@@ -4,24 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zumer-niaz/)
 [![GitHub Followers](https://img.shields.io/github/followers/zumer305?label=Follow%20%40zumer305&style=social)](https://github.com/zumer305)
-<!-- Banner -->
-<p align="center">
-  <img src="./banner.svg" alt="Zumer — Web Developer banner" />
-</p>
-
-<h1 align="center">Hi, I'm Zumer 👋</h1>
-<p align="center">
-  I build modern, fast, and responsive websites that convert — using <b>React/Next.js</b>, <b>Tailwind</b>, and <b>WordPress</b>.
-</p>
-
-<p align="center">
-  <a href="mailto:zumertech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zumertech%40gmail.com-blue?logo=gmail"></a>
-  <a href="https://wa.me/923435885163"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Lahore-PK-0b8315">
-  <img alt="Status" src="https://img.shields.io/badge/Available%20for%20Work-Yes-success">
-</p>
-
----
 
 - 👋 Hi, I’m @zumer305, a passionate student exploring the realms Web Development.
 - 👀 I’m interested in Web Development.
